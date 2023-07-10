@@ -65,6 +65,8 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <button type='submit' >Tweet</button>
         </form>
         </main>
+        <div className="separator" />
+        
       </div>
     </div>
   </React.StrictMode>,
